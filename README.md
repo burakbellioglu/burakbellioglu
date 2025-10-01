@@ -10,7 +10,8 @@
 <table style="width:100%;">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=burakbellioglu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage,discussions_started,discussions_answered" width="450" height="180"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=kenissha&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"
+           width="450" height="180" />
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakbellioglu&layout=compact&langs_count=10&theme=tokyonight"/>
