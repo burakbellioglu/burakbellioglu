@@ -10,7 +10,7 @@
 <table style="width:100%;">
   <tr>
     <td align="center">
-      <img src="[https://github-readme-stats.vercel.app/api?username=burakbellioglu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=burakbellioglu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)"
+      <img src="https://github-readme-stats.vercel.app/api?username=burakbellioglu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"
            width="450" height="180" />
     </td>
     <td align="center">
