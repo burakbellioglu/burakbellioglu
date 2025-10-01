@@ -10,11 +10,11 @@
 <table style="width:100%;">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=burakbellio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+      <img src="https://github-readme-stats.vercel.app/api?username=burakbellioglu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
            width="450" height="180" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakbellio&layout=compact&langs_count=10&theme=tokyonight"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakbellioglu&layout=compact&langs_count=10&theme=tokyonight"/>
     </td>
   </tr>
 </table>
@@ -24,7 +24,7 @@
 ### 🔥 GitHub Aktiviteleri
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=burakbellio&theme=tokyonight" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=burakbellioglu&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -47,15 +47,17 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-2C3E50?style=flat-square&logo=metasploit&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)  
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 
 ---
 
 ### 🌍 Sosyal Medya
 <p align="center">
-  <a href="https://instagram.com/burakbellio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> &nbsp;
-  <a href="mailto:burakbellio@example.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;
-  <a href="https://www.linkedin.com/in/burakbellio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/burak.bellioglu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> &nbsp;
+  <a href="mailto:burak.bel19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;
+  <a href="https://www.linkedin.com/in/burak-bellioglu-285977221" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
