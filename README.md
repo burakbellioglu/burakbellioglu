@@ -1,16 +1,16 @@
 ## Selam! Ben Burak Bellioğlu 👋
 💻 Siber Güvenlik & Yazılım meraklısı  
 
-🔹 C# & .NET alanında güçlü tecrübem var  
-🔹 Python ile otomasyon, güvenlik araçları geliştirme üzerine çalışıyorum  
-🔹 Siber Güvenlik, SIEM, IDS/IPS, Log Analizi ve Red/Blue Team ilgilendiğim konular  
+🔹 Oyun geliştirme, Web/Uygulama geliştirme, Siber güvenlik alanları üzerinde çalışmalar gerçekleştirdim.  
+🔹 Python ile otomasyon, güvenlik araçları. C# ile birlikte Web geliştirme, oyun geliştirme.  
+🔹 Siber Güvenlik, SIEM, IDS/IPS, Log Analizi ve Red/Blue Team ilgilendiğim konular. 
 
 ---
 
 <table style="width:100%;">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=burakbellioglu&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"
+      <img src="https://github-readme-stats.vercel.app/api?username=burakbellioglu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
            width="450" height="180" />
     </td>
     <td align="center">
