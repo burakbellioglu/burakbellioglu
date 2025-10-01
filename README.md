@@ -56,7 +56,7 @@
 <p align="center">
   <a href="https://instagram.com/burak.bellioglu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> &nbsp;
   <a href="mailto:burak.bel19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;
-  <a href="https://www.linkedin.com/in/burak-bellioglu-285977221" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/burak-bellioglu-285977221" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;
   <a href="https://play.google.com/store/search?q=Letragames&c=apps&hl=tr" target="_blank">
   <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white">
 </a>
